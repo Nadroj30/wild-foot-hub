@@ -45,13 +45,13 @@ Ce dépôt centralise l’ensemble des données extraites depuis FBref pour anal
 
 ## Structure du dépôt
 
-├── data/
-│ ├── standard_stats.csv
-│ ├── shooting_stats.csv
-│ └── …
-├── notebooks/
-│ ├── scraping_fbref.ipynb
-│ └── test_fbref.ipynb
-├── .gitignore
-└── README.md
+├── data/  
+│ ├── standard_stats.csv  
+│ ├── shooting_stats.csv  
+│ └── …  
+├── notebooks/  
+│ ├── scraping_fbref.ipynb  
+│ └── test_fbref.ipynb  
+├── .gitignore  
+└── README.md  
 
