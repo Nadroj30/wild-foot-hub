@@ -1,0 +1,23 @@
+# Environnements virtuels
+p3_env/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Configs éditeur / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Logs et exports temporaires
+*.log
+*.tmp
+
+# Mac OS
+.DS_Store
